@@ -1,6 +1,6 @@
-#  NODE-FORM
+# NODE-FORM
 
-Node Farm is a simple product showcase application developed using Node.js, where the backend and frontend work together.
+- Node Farm is a simple product showcase application developed using Node.js, where the backend and frontend work together.
 The project aims to teach the concept of server-side rendering using pure Node.js without relying on any external framework.
 
 # Preview
@@ -16,7 +16,7 @@ The project aims to teach the concept of server-side rendering using pure Node.j
 
 # #  Technologies Used
 
-# # # Backend
+# # Backend
 
 - Node.js
 - http 
@@ -25,17 +25,18 @@ The project aims to teach the concept of server-side rendering using pure Node.j
 - Custom Template Engine
 - JSON
 
-# # # Frontend
+# # Frontend
 
 - HTML
 - CSS3
 - Google Fonts
 - Emoji-based UI
 
-### Development Tools
+# # Development Tools
 
 - Nodemon
 - Postman
+
 
 
 
