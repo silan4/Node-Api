@@ -1,2 +1,42 @@
+#  NODE-FORM
+
+Node Farm is a simple product showcase application developed using Node.js, where the backend and frontend work together.
+The project aims to teach the concept of server-side rendering using pure Node.js without relying on any external framework.
+
+# Preview
+
+![](https://github.com/silan4/Node-Api/blob/main/nodeform.gif)
+
+# # Project Features
+
+- It consists of a product listing and a product detail page.
+- Modular code structure
+- Responsive and modern UI
+- JSON-based data management
+
+# #  Technologies Used
+
+# # # Backend
+
+- Node.js
+- http 
+- fs 
+- url 
+- Custom Template Engine
+- JSON
+
+# # # Frontend
+
+- HTML
+- CSS3
+- Google Fonts
+- Emoji-based UI
+
+### Development Tools
+
+- Nodemon
+- Postman
+
+
 
 
