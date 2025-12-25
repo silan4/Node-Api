@@ -5,7 +5,7 @@ The project aims to teach the concept of server-side rendering using pure Node.j
 
 # Preview
 
-![](/nodeform.gif)
+![](/Node-Api/nodeform.gif)
 
 # # Project Features
 
@@ -36,6 +36,7 @@ The project aims to teach the concept of server-side rendering using pure Node.j
 
 - Nodemon
 - Postman
+
 
 
 
